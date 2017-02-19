@@ -55,7 +55,9 @@ Also install dependencies specified by torch-rnn
 
 ##Challenges
 -Training Time
+
 -AWS learning curve
+
 -Depth vs layer side tradeoffs
 
 ##Future Improvement
@@ -65,7 +67,9 @@ Scale network to 512 neurons per layer and 3 layers to capture more subtle featu
 
 Isolate html files per type:
 -index.html
+
 -contact.html
+
 -etc
 
 
