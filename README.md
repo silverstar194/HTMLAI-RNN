@@ -54,8 +54,11 @@ Also install dependencies specified by torch-rnn
 (still to write)
 
 ##Challenges
+-Training Time
+-AWS learning curve
+-Depth vs layer side tradeoffs
 
-##Future Inmprovement
+##Future Improvement
 Use full training set
 
 Scale network to 512 neurons per layer and 3 layers to capture more subtle features
