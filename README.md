@@ -1,6 +1,6 @@
 # HTMLAI-RNN
 ##Goal:
-Train a RNN (Recurrent Neural Network) to generate valid HTML and CSS for website based on character by character training.
+Train a RNN (Recurrent Neural Network) to generate valid HTML and CSS templates for websites based on character by character training.
 
 I was inspired to try this by:
 https://www.youtube.com/watch?v=iX5V1WpxxkY&t=2881s
@@ -21,13 +21,13 @@ Note the "post-input training inputs" from the layers output aka unfolding as re
 
 
 ##HTML and CSS RNN Model
-128 vector ascii input vector
+128 vector input (ascii character range)
 
 2 hidden layers
 
 256 neurons per layer
 
-128 vector input (ascii character range)
+128 vector output of probabilites (ascii character range)
 
 output next char predicted in sequence w/ softmax classifier
 
