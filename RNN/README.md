@@ -1,6 +1,8 @@
-FROM https://github.com/jcjohnson/torch-rnn
+Credit to https://github.com/jcjohnson/torch-rnn for library and model for RNN character level neural net.
 
-Library and model for RNN character level neural net
+Thanks for the work!
+
+Details of libray below:
 
 # torch-rnn
 torch-rnn provides high-performance, reusable RNN and LSTM modules for torch7, and uses these modules for character-level
