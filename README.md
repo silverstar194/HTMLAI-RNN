@@ -52,7 +52,7 @@ Also install dependencies specified by torch-rnn
 For each template I generated more text than was generally in a html file and cut the file to proper length based on appened starting tag, "<!DOCTYPE ", and "</htlm>".
 
 #CSS Insertion
-I wanted to be sure that all the generated templates were able to reference a CSS file for styling, thus post generation I inserted a CSS style link into each document.
+I wanted to be sure that all the generated templates were able to reference a CSS file for styling, thus post generation I inserted a CSS style link into each document. I also drop references to css/style.css as not to cause conflicts.
 
 #Image Insertion
 The generated HTML/CSS had vaild img tags and used past image links to generate "image like links" but they would not be able to link to any actully images. I went through and replaced each link with a link to a vaild image randomly pulled from the training set images.
