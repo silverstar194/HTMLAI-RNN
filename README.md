@@ -48,7 +48,20 @@ Used AMI image: ami-c79b7eac (See https://github.com/brotchie/torch-ubuntu-gpu-e
 Also install dependencies specified by torch-rnn
 
 ##Post-Processing
-(still to write)
+#HTML Doc Cutting
+For each template I generated more text than was generally in a html file and cut the file to proper length based on appened starting tag, "<!DOCTYPE ", and "</htlm>".
+
+#CSS Insertion
+I wanted to be sure that all the generated templates were able to reference a CSS file for styling, thus post generation I inserted a CSS style link into each document.
+
+#Image Insertion
+The generated HTML had vaild img tags and used past image links to generate "image like links" but they would not be able to link to any actully images. I went through and replaced each link with a link to a vaild image randomly pulled from the training set images.
+
+#Commenting
+The AI tended not to close comments which lead the html to not display at all after the failure to close. I stripped out comments to prevent this.
+
+#Single Quote Replacement
+The AI tended to not close quotes properly which lead to following html to be unusable. Replaceing all single quotes with double quotes greatly eliminated this.
 
 ##Results
 (still to write)
@@ -73,5 +86,5 @@ Isolate html files per type:
 
 -etc
 
--Better Image Selection
+Better Image Selection
 
