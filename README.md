@@ -73,4 +73,5 @@ Isolate html files per type:
 
 -etc
 
+-Better Image Selection
 
