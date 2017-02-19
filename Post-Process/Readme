@@ -1,0 +1,8 @@
+####
+Here you will find the java program to:
+1. Generate HTML and CSS from models
+2. Apply Post-Process to each
+3. Pull in images and create fill structure
+4. Write all to file
+
+See config file for details on paths and constants
