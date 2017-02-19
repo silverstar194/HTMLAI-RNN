@@ -55,13 +55,18 @@ For each template I generated more text than was generally in a html file and cu
 I wanted to be sure that all the generated templates were able to reference a CSS file for styling, thus post generation I inserted a CSS style link into each document.
 
 #Image Insertion
-The generated HTML had vaild img tags and used past image links to generate "image like links" but they would not be able to link to any actully images. I went through and replaced each link with a link to a vaild image randomly pulled from the training set images.
+The generated HTML/CSS had vaild img tags and used past image links to generate "image like links" but they would not be able to link to any actully images. I went through and replaced each link with a link to a vaild image randomly pulled from the training set images.
 
 #Commenting
-The AI tended not to close comments which lead the html to not display at all after the failure to close. I stripped out comments to prevent this.
+The AI tended not to close comments which lead the HTML/CSS to not display at all after the failure to close. I stripped out comments to prevent this.
 
 #Single Quote Replacement
-The AI tended to not close quotes properly which lead to following html to be unusable. Replaceing all single quotes with double quotes greatly eliminated this.
+The AI tended to not close quotes properly which lead to following HTML to be unusable. Replaceing all single quotes with double quotes greatly eliminated this.
+
+#HTML Min Length
+The AI somethings produces very short HTML files. Anything less then 1200 chars is discarded.
+
+
 
 ##Results
 (still to write)
