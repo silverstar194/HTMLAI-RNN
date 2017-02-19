@@ -1,0 +1,817 @@
+<!--####-->
+
+* {
+	padding:0;
+	margin:11px 0 0 0;
+	background-color:#D8B6B6;
+	margin-bottom:5px 
+}
+
+other{
+	display:block;
+	background-color: #ff0000;
+	overflow:hidden;
+	bottom:110px;
+	left:30px;
+}
+#mainnav li.commentlist	sup a:hover, #menu > a:after, #footer p.leftSideBacontent{
+	background:url(../images/951-gallery5.jpg)5pont-size.pnephing-script5.025em/3A0);
+	height:340px;
+	width:89px;
+	position:absolute;
+	top:15px;
+}
+#vename a{
+	color:#666656;
+	}
+	
+#footer p a:hover{
+	background-color:#777;
+}
+#footer p.yText
+{
+	position:relative;
+	height:31px;
+	background:none
+}
+#login_box form input {
+	width:268px; margin:25px 0 0 0;
+	padding:10px 40px;
+	color:#1a6ed3;
+	background-color:inherit;
+	padding:5px 0 5px 0;
+	margin:0 0 5px 0;
+	line-height:10px;
+}
+
+#bottom .col {
+	margin-bottom:20px;
+}
+#main-navigation {
+ float: left;
+}
+#content .links {
+	position: relative; 
+}
+
+#sidenav ul {
+	margin: 0; 
+	list-style: none; 
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+
+#calendar_wrap {
+	float: right;
+	width: 300px;
+	height: 120px;
+	width: 50px;
+	height: 23px;
+	border: 2px #FFCEDE solid;
+}
+
+#content_left_sidebar a:link, #footer .form input.text {
+	width: 202px;
+	background-position: right 0;
+	margin: 0;
+	float: left;
+	padding: 3px 12px;
+	width: 30%;
+	font-size: 140%;
+	margin: 0 10px 10px;
+	background-image: url(../images/3360-8.jpg);
+	background-repeat: no-repeat;
+}
+#right
+{
+	margin:0 0 0 0!important;
+}
+
+#container {
+	background-image:url(../images/15551-header1.jpg);
+	background-position: 50px 100%;
+	border:1px solid #26292c;
+	}
+#validation {
+		float:left
+}
+#header { /* Wrapper to the containing width ofiline main pozlorated */
+        width: 16px;}
+
+    #sidebar a:link            { overflow: auto; position: absolute; top: 0; left: 0; right: 0;width:100%;font-size: 92%;line-height: 250}
+    #login-footer .categories a { background: #14222a; background: white; olist: right;}
+
+#footer li {left: -15px;margin: 0;font-family: Lucida Grande,serit;vertical-align: middle;}
+
+/* column style for body for orizour retaings and container */
+#container{
+width: 69.6%; 
+}
+
+.list1-content {
+	width: 99%;
+	margin-left: 20px;
+}
+
+.commentmetadata {
+	font-weight: bold;
+	position: relative;
+	background: url(../images/10219-headerbg.jpg) no-repeat;
+}
+#wrap #content #left img{
+	float: right;
+  	border: 1px solid #999;
+	margin: 0;
+	padding: 10px 30px 0px 10px;
+	float: left;
+	margin-left: 20px;
+}
+
+
+
+#form .formErrorArrow .titleTimatea {
+	padding: 0px;
+	margin: 0px;
+	padding-left: 5px;
+}
+/* Footer*/
+
+#main {
+ 	width: 150px;
+	display: block;
+	float: right;
+	margin-left: 2px;
+}
+#wrap #header #footer p {
+	margin-left: 2px;
+	padding-left: 5px;
+	font-size: 90%;
+	line-height: 12px;
+	font-family:  temonly  Trebuchet Area,top, yot in Doy, Eee Vo otherrings outster width > 2005
+- you number style coude by Opera IE header - 1.0tet/
+*/
+
+body {
+	background: #EB8901;
+}
+
+body, th, td, input, textarea, ht,cinside, ul, ol, ol, blockquote, blockquote, prettate, pre, span
+{
+
+  font-style: italic;
+}
+
+a {
+text-decoration: none;
+color: #7F7670;
+}
+		/* BEGIN content content styles **/
+#commentform textarea {
+
+	width: 350px;
+	text-align: justify;
+
+	}
+
+
+<!--####-->
+
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #DEDEDE
+}
+
+h1, h2, h3 {
+
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #363636;
+}
+
+
+h1 {
+	font-size: 2.5em;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-size: 42.5%;
+	margin: 10px 0;
+	padding: 5px 0 0 13px;
+	font-size: 2.6em;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 11.2em;
+}
+
+a {
+	text-decoration: none;
+	color: #E6EBD3 !important; 
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img {
+	border: none;
+}
+
+/* Header */
+
+#header {
+	width: 960px;
+	height: 90px;
+    background: url(../images/15334-butterfly3.jpg) no-repeat 15px 30px;
+	color: #343934;
+}
+
+#content ol {
+	list-style: none;
+}
+
+#links {
+	float: right;
+	padding: 40px 30px 0px 30px;
+}
+
+#logo h1 {
+	padding-top: 80px;
+}
+
+#logo h1 {
+	padding-top: 20px;
+	text-transform: uppercase;
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #A100AB;
+}
+
+#logo h2 {
+	padding: 25px 0 0 0;
+	font-size: 30px;
+	color: #000000;
+}
+
+#logo h1 {
+	padding-left: 30px;
+	line-height: normal;
+}
+
+#logo h1 {
+	padding: .3em;
+	font-size: x-small;
+}
+
+#gallery-left {
+	float: left;
+}
+
+/* Footer > Links */
+
+#links {
+}<!--####-->
+
+/*
+Credit: http://www.templatemo.com
+*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #261619;
+}
+
+h1, h2, h3, h4, h5, h6, footer a {
+	color: #3e3939;
+}
+
+h1, h2, h3 {
+	font-family: Georgia, Times New Roman, Arial, Helvetica, sans-serif;
+}
+
+.clearfix {
+	background: #FFF4E9;
+	border-bottom: 3px solid #FFFFFF;
+	padding: 0px 2px 2px 0px;
+	background: url(../images/17845-pics04.jpg) repeat-x;
+	text-decoration: none;
+	color: #187478;
+}
+
+h1, h2, h3 {
+	color: #AA28AB;
+}
+
+.boxed ul {
+	margin: 0;
+	padding: 0;
+	list-style: square;
+}
+
+/* Footer */
+
+#footer {
+	width: 940px;
+	margin: 0 auto;
+	padding-top: 1em;
+}
+
+/* Header */
+
+#header {
+	width: 760px;
+	height: 200px;
+	margin: 0 auto 5px auto;
+}
+
+#header h1 {
+	padding: 40px;
+	border-top: #F50302 1px solid;
+	background: #FFFFFF;
+	letter-spacing: -1px;
+	text-decoration: none;
+	font-size: 12px;
+	color: #212626;
+}
+
+#menu {
+	margin: 0;
+	padding: 20px 0 0 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	padding: 10px;
+	background: url(../images/17845-pics04.jpg) repeat-x;
+	border: none;
+	text-indent: -10000px;
+	margin-left: 12px;
+	padding: 0 3px 0px 20px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #D95913;
+}
+
+/* Page */
+
+#page {
+	width: 980px;
+	margin: 0 auto;
+	padding: 0;
+	background: #FFFFFF url(../images/16191-t1.jpg) no-repeat left top;
+}
+
+#page-bgtop {
+	padding-top: 8px;
+}
+
+.post {
+	margin: 0px;
+	padding: 3px;
+	border-top: 1px dotted #000000;
+	border-bottom: 1px solid #333333;
+	background: #F6F5F5;
+	border: none;
+	background: url(../images/11656-5.jpg) no-repeat right top;
+	padding: 24px 0 0 0;
+	text-decoration: none;
+	font-size: 14px;
+	color: #000000;
+}
+
+/* Menu */
+
+#menu {
+	width: 778px;
+	margin: 10px auto;
+}
+#wrapper {
+	width: 100%;
+	height: 140px;
+	margin: 0 auto;
+}
+
+#logo h1, #logo p {
+	margin: 0;
+	padding: 0;
+}
+
+#logo h1 {
+	padding: 10px 20px;
+	letter-spacing: -1px;
+	font-size: 30px;
+	font-style: italic;
+}
+
+#colTwo {
+	float: left;
+	width: 158px;
+	padding: 0 0 0 35px;
+}
+
+#contentbrast {
+	float: left;
+	width: 480px;
+}
+
+/* Categories */
+
+#wp-calendar {
+	position: relative;
+}
+
+#links {
+	padding-top: 70px;
+}
+
+#login {
+	padding-top: 15px;
+	font-family: Georgia, Times New Roman, Times, serif;
+	color: #DDDDDD;
+}
+
+#logo p {
+	margin: 0;
+	padding: 0;
+	letter-spacing: 1px;
+	font-size: 77%;
+	color: #FFFFFF;
+}
+
+#logo p {
+	margin: 0;
+	padding: 0;
+}
+
+#logo h1 {
+	padding-top: 4px;
+	font-weight: bold;
+}
+
+#legal {
+	float: left;
+	padding: 35px 20px;
+	background-color: #6d8ca6;
+	text-align: center;
+}
+
+#recent-posts h2 {
+	font-size: 1.4em;
+	color: #FF6600;
+	background : #444444;
+
+}
+
+#content h2.w7 {
+	margin-bottom: 2em;
+	font-size: 9px;
+}
+
+#footer * {
+	color: #FFFFFF;
+}<!--####-->
+
+/*
+CSS Credit: http://www.templatemo.com
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	font-size: 14px;
+}
+
+h4 {
+
+	font-size: 13px;
+
+	line-height: 1.5em;
+
+	width: 100%;
+
+	overflow: visible !important;
+
+	}
+
+h1 {
+	font-size: 22px;
+	font-weight: normal;
+	color: #BCEFF2;
+	font-size: 12px;
+}
+
+a:link { 
+	color: #CCCCCC;
+}
+
+a:hover
+{ outline: none;background: none;}
+
+/* Begin Structure */
+
+#header {
+width: 950px;
+margin: 0px auto;
+padding : 0}
+h3 {
+padding : 0.5em 0 0.1em 0;
+}
+#portfoilict {
+width: 740px;
+margin: 100px 0 0 5px;
+font-size: 0.9em;
+padding-left: 3px;
+list-style-image: url(../images/3973-car.jpg) right 0%;
+}
+			/*TOP BANNER*/
+#latestblank{
+width: 780px;
+margin: 0 auto;
+}
+#commentextnlowhon h2 { /* div */
+ margin: 0 auto;
+}
+#menu a {
+ left: -15px; 
+}
+
+<!--####-->
+
+/* CSS Document */
+
+* {margin: 0; padding: 0;}
+
+body {
+background: url(../images/2131-piture_3.jpg) repeat-x top;
+}
+a:link{
+text-decoration: none;
+color: #f4e139;
+}
+
+
+blockquote p {
+border:1px solid #c9c000;
+margin:0 13px;
+}
+
+li img{
+list-style:none;
+}<!--####-->
+
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 40px 0px;
+	padding: 0px;
+	font-size: 10px;
+	font-weight: bold;
+	font-weight: normal;
+	color: #000000;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 136%;
+}
+
+h3 {
+	margin: 0;
+	font-size: 4em;
+}
+
+h3 {
+	font-size: 1.0em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-bottom: .4em;
+	line-height: 200%;
+}
+
+ul, ol {
+}
+
+blockquote {
+	margin-left: 3em;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+a:hover {
+	border-bottom: 4px solid #EBE709;
+	border-top: none;
+}
+
+img.alignleft {
+	float: left;
+	margin: 7px 30px 0 0;
+}
+
+#header-wrapper {
+	height: 170px;
+}
+
+#latest {
+	float: right;
+}
+
+/* Footer */
+
+#footer {
+	width: 720px;
+	margin: 0 auto;
+	padding: 0px 0 15px 0;
+	background: #8577C7;
+	border-top: 1px solid #EEEEEE;
+}
+
+#footer p {
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	font-size: smaller;
+	font-size: 10px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* Menu */
+
+#menu {
+	float: left;
+	width: 520px;
+	padding: 0 50px;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu li#content_section label {
+	float: left;
+	height: 48px;
+	padding: 7px 0 0 30px;
+	border-left: 1px solid #EDEBC7;
+	letter-spacing: normal;
+	font: normal small Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	width: 220px;
+	height: 50px;
+	border: none;
+	background: #5668CC;
+	text-decoration: none;
+	font-size: 11px;
+	text-align: center;
+	text-transform: lowercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #98EB9E;
+}
+
+#menu a:hover {
+	color: #214131;
+}
+
+#menu .active a {
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 490px;
+	height: 203px;
+	background: #001dcd;
+	font-size: 12px;
+}
+
+#footer {
+	clear: both;
+	width: 700px;
+	height: 20px;
+	margin: 0 auto;
+	background: url(../images/9979-massage-oils.jpg) no-repeat left top;
+	font-size: 100%;
+	color: #FFFFFF;
+}
+
+#footer a {
+	color: #990000;
+}<!--####-->
+
+@charset utf-8;
+body { margin:0; padding:0; width:100%;  float:left; }
+html { margin:0; 
+	padding:0; border:1px solid #ebe8e8; background:#fff;}
+ol li .outer img { border:1px solid #fba}img {
+	clear:both; 
+	list-style:none; 
+}
+.menu_nav ul a {
+	margin:0;
+	padding:12px;
+	width:300px;
+	font:normal 40px/1.2em Georgia, Times New Roman, Times, serif;
+}
+.search form {
+	float:right;
+}
+p.clr, .content .mainbar {
+	margin:0;
+	padding:0;
+	float:right;
+	width:620px;
+}
+ul.sb_menu li, ul.ex_menu li {
+	margin:0 12px 10px 0;
+}
+ul.left ul{
+	list-style:none;
+	margin:5px 10px;
+	padding:0; 
+	background-color:#616161;
+	text-decoration:none;
+	color:#616869;
+	width:262px;
+	display:block;
+	text-decoration:none;
+	text-decoration:none;
+	border:1px solid #fff;
+}
+.cont	
+
