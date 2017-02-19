@@ -47,7 +47,7 @@ I trained on AWS p2.xlarge instances with GPUs (NVIDIA K80 GPUs). Even with the 
 Used AMI image: ami-c79b7eac (See https://github.com/brotchie/torch-ubuntu-gpu-ec2-install)
 Also install dependencies specified by torch-rnn
 
-##Pro-Processing
+##Post-Processing
 (still to write)
 
 ##Results
