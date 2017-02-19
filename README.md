@@ -93,3 +93,5 @@ Isolate html files per type:
 
 Better Image Selection
 
+Write Script to insure closure of script tags (real issue now with rendering)
+
