@@ -39,7 +39,17 @@ Once concatencated all non-ascii characters were stripped out.
 
 ##Training
 Epoch 50
+
 Min-Batches of 50
 
-I trained on AWS p2.xlarge instances with GPUs (NVIDIA K80 GPUs) even with the GPUs I had to break full ~5000 website dataset into half to complete training in a reasonble amount of time (~6 hours per model).
+I trained on AWS p2.xlarge instances with GPUs (NVIDIA K80 GPUs) even with the GPUs I had to break full ~5000 website dataset into half to complete training in a reasonble amount of time (~6 hours per model). I had one model for HTML and one for CSS.
+
+Used AMI image: ami-c79b7eac (See https://github.com/brotchie/torch-ubuntu-gpu-ec2-install)
+Also install dependencies specified by torch-rnn
+
+##Pro-Processing
+(still to write)
+
+##Results
+(still to write)
 
