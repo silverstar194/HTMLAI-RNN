@@ -56,13 +56,13 @@ Also install dependencies specified by torch-rnn
 ##Challenges
 
 ##Future Inmprovement
-Use full traning set
+Use full training set
 
 Scale network to 512 neurons per layer and 3 layers to capture more subtle features
 
 Isolate html files per type:
 -index.html
 -contact.html
-etc
+-etc
 
 
