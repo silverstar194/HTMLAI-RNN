@@ -71,6 +71,12 @@ The AI somethings produces very short HTML files. Anything less then 1200 chars 
 ##Results
 After training for 50 Epoch the rnn can produce mostly vaild html and css. The style is older and looks dated. I am unsure if this is due to the training set or because it can only pick up on simpler patterns. See Sample for two complete templates.
 
+
+
+Site Screenshot:
+![alt tag](Screenshot/template_29.png)
+
+
 Generated HTML:
 ````
 <html>
@@ -271,233 +277,7 @@ body {
 	padding: 0px;
 }
 
-#searchfield {
-	height: 24px;
-	padding-top: 20px;
-	font-size: 13px;
-	color: #A9B90B;
-}
 
-.templatemo_content_area {
-	padding: 15px;
-	margin-top: 3px;
-	}
-
-.services_section .right {
-	
-	width: 650px;
-	margin: 76px 0px 0px 0px; 
-	background: url(../images/1806-car5.jpg) no-repeat;
-	margin: 0;
-	padding: 0;
-}
-
-.latest_news_section h1{
-	font-size: 14px;
-	color:#2d6e84;
-	text-align:justify;
-	height:16px;
-	padding-top:15px;
-	font-size:31px;
-	font-weight:bold;
-	font-variant:normal;
-	font:normal 11px Arial, Helvetica, sans-serif;
-	color:#a8acb2;
-}
-.body_resize .text_area {
-	position:relative;
-	height:16px;
-	width:50px;
-	text-decoration:none;
-	text-decoration:none;
-	text-transform:none;
-	color:#C38304;
-	text-decoration:none;
-}
-.menu ul {
-	margin:0;
-	padding:4px 0;
-	float:left;
-	width:300px;
-}
-ul.sb_menu li {
-	padding:4px 0 0 16px;
-	width:260px;
-	height:97px;
-	text-align:right;
-	color:#97b500;
-	text-decoration:none;
-	border:none;
-}
-.headert_text_resize {
-	width:930px;
-	margin:0 auto;
-	padding:0 10px;
-	float:left;
-}
-.footer p {
-	font:normal 14px Arial, Helvetica, sans-serif;
-	color:#F00;
-}
-.body h2 {
-	font:normal 24px Georgia, Times New Roman, Times, serif;
-	padding:6px 0 0;
-}
-.post h2 {
-	font:normal 20px Arial, Helvetica, sans-serif;
-	color:#999999;
-}
-.fbg p {
-	margin:0;
-	padding:4px 0;
-	border-right:1px solid #182828;
-}
-.fbg p.contact h4 a {
-	color:#464646;
-	background:url(../images/6031-freshCake4.jpg) no-repeat left center;
-}
-.footer a {
-	color:#fff;
-	text-decoration:none;
-}
-.footer .lf {
-	float:left;
-}
-.footer .rf {
-	float:right;
-}
-#contactform {
-	margin:0;
-	padding:50px 15px 0 0;
-}
-#contactform * {
-	border-bottom:1px solid #d7d4d4;
-	background:#fff;
-	padding:25px 50px 15px 20px;
-	border:none;
-	background:#fff;
-}
-#contactform ol {
-	margin:0;
-	padding:0;
-	list-style:none;
-}
-#contactform li {
-	margin:0;
-	padding:0;
-	float:right;
-}
-.nivo_welcolz_image {
-	float:left;
-	margin:0;
-	padding:0;
-}
-
-* html .typen {
-	float:right;
-	width:40px;
-	height:16px;
-	float:left;
-	background:url(../images/14598-main_image.jpg) repeat-x;
-}
-.content .col_1_3 {
-	width:160px;
-	padding:5px 0 5px 0;
-}
-.search form .button {
-	float:left;
-	margin:0;
-	padding:0;
-}
-.body {
-	margin:0;
-	padding-left:65px;
-}
-.body a {
-	color:#959595;
-	text-decoration:underline;
-}
-a.small {
-	float:left;
-	padding:10px 0 0 20px;
-	margin:0;
-}
-.FBG {
-	margin:0;
-	padding:0;
-	float:right;
-	width:970px;
-}
-.menu {
-	padding:0;
-	margin:0;
-	width:300px;
-	float:right;
-}
-.post .right_footer_link{
-	float:left;
-	margin:0;
-	padding:0;
-}
-.FBG {
-	border:1px solid #ebea01;
-	padding:4px 17px 0 5px;
-}
-.body {
-	padding:0;
-	margin:0 auto;
-	border:1px solid #dedede;
-	width:145px;
-	margin:0 auto;
-	padding:0;
-	font:bold 40px/17px Georgia, Times New Roman, Times, serif;
-	padding:5px 0;
-	margin:0;
-	font:bold 40px/1.5em Arial, Helvetica, sans-serif;
-	text-decoration:none;
-}
-.pagenavi li a:hover, .templatemo_menu li .current {
-	color:#7a9da2;
-	font-weight:bold;
-}
-.content p.yellow a {
-	color:#fff;
-}
-.pagenavi .current {
-	border-radius:11px;
-	color:#fef80d;
-}
-.content .mainbar .last {
-	margin:0;
-	padding:16px 24px 24px;
-	float:right;
-	width:260px;
-}
-.fbg .c3 img {
-	margin:-4px 0 16px 0;
-	padding:2px 5px;
-	float:left;
-}
-.fbg .col {
-	margin:0;
-	float:left;
-}
-.fbg .col {
-	margin:0;
-	float:left;
-}
-.fbg .c1 {
-	padding:0 16px 0 0;
-	font-size:40px;
-	margin:0;
-	padding-bottom:20px;
-	color:#323a3f;
-	display:block;
-	font-size:12px;
-	line-height:1.8em;
-	margin:5px 0 10px 0;
-	padding:0;
-}
 .fbg img {
 	margin:0;
 	padding:8px 14px;
@@ -585,25 +365,6 @@ h1 span {
 	padding:0 0 0 13px;
 	width:260px;
 }
-.content .mainbar img {
-	padding:4px;
-	border:1px solid #cfd2d4;
-}
-.content .mainbar .article {
-	margin:0 0 12px;
-	padding:8px 24px;
-	float:right;
-}
-.content p.pages span, .content .mainbar li a {
-	color:#959595;
-	text-decoration:underline;
-}
-.footer p {
-	margin:8px 0;
-	padding:0 0 8px 0;
-	font:normal 12px/1.8em Arial, helvetica, sans-serif;
-	background-color:#fff;
-}
 .content .mainbar .article, .content .sidebar .gadget {
 	margin:0;
 	padding:8px 24px 8px 40px;
@@ -679,30 +440,6 @@ a.css:visited {
 	font-weight: bold;
 }
 
-
-.header a span {
-	display: block;
-	position: absolute;
-	top: 20px;
-	left: 70px;
-}
-
-.article_fadetable img {
-	margin-left: 85px;
-}
-.headerTspow {
-	background: url(../images/4462-0013-150x59.jpg) no-repeat left bottom;
-	background-position: 100% 0%;
-}
-
-.post {
-	padding: 60px 0px 10px 20px;
-}
-/* Banrons */
-.COR .img2 {
- width: 585px;
-}
-
 a {
 color:#000;
 }
@@ -761,9 +498,6 @@ text-transform: capitalize;
  background: #30322C url(../images/17385-bootstrap-women-ware3.jpg) top repeat-x;
 	
 ````
-
-Site Screenshot:
-![alt tag](Screenshot/template_29.png)
 
 
 ##Challenges
