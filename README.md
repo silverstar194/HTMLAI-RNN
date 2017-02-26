@@ -1,6 +1,8 @@
 # HTMLAI-RNN
 ##Goal:
 Train a RNN (Recurrent Neural Network) to generate valid HTML and CSS templates for websites based on character by character training.
+##Sample Sites:
+http://149.56.108.43/RNN/main/
 
 I was inspired to try this by:
 https://www.youtube.com/watch?v=iX5V1WpxxkY&t=2881s
